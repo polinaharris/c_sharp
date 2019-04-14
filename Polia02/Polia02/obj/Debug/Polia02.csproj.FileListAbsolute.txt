@@ -1,0 +1,76 @@
+C:\Users\tech\Desktop\Polia02\Polia02\bin\Debug\Polia02.exe.config
+C:\Users\tech\Desktop\Polia02\Polia02\bin\Debug\Polia02.exe
+C:\Users\tech\Desktop\Polia02\Polia02\bin\Debug\Polia02.pdb
+C:\Users\tech\Desktop\Polia02\Polia02\bin\Debug\JetBrains.Annotations.dll
+C:\Users\tech\Desktop\Polia02\Polia02\bin\Debug\JetBrains.Annotations.xml
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.csprojAssemblyReference.cache
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\App.g.cs
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02_MarkupCompile.cache
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.g.resources
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.Properties.Resources.resources
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.GenerateResource.cache
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.CoreCompileInputs.cache
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.CopyComplete
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.exe
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02\Polia02\bin\Debug\Polia02.exe.config
+C:\Users\User\Desktop\Polia02\Polia02\bin\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02\Polia02\bin\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02\Polia02\bin\Debug\JetBrains.Annotations.dll
+C:\Users\User\Desktop\Polia02\Polia02\bin\Debug\JetBrains.Annotations.xml
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02_MarkupCompile.cache
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.g.resources
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.Properties.Resources.resources
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.csproj.CopyComplete
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Views\InfoView.baml
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Views\InfoView.g.cs
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Views\RegisterView.baml
+C:\Users\User\Desktop\Polia02\Polia02\obj\Debug\Views\RegisterView.g.cs
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Views\RegisterView.baml
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Views\InfoView.baml
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Views\RegisterView.g.cs
+C:\Users\tech\Desktop\Polia02\Polia02\obj\Debug\Views\InfoView.g.cs
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\bin\Debug\Polia02.exe.config
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\bin\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\bin\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\bin\Debug\JetBrains.Annotations.dll
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\bin\Debug\JetBrains.Annotations.xml
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Views\RegisterView.baml
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Views\InfoView.baml
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Views\RegisterView.g.cs
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Views\InfoView.g.cs
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02_MarkupCompile.cache
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.g.resources
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.Properties.Resources.resources
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.csproj.CopyComplete
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02 (3)\Polia02\Polia02\obj\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\bin\Debug\Polia02.exe.config
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\bin\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\bin\Debug\Polia02.pdb
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\bin\Debug\JetBrains.Annotations.dll
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\bin\Debug\JetBrains.Annotations.xml
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Views\RegisterView.baml
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Views\InfoView.baml
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Views\RegisterView.g.cs
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Views\InfoView.g.cs
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02_MarkupCompile.cache
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.g.resources
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.Properties.Resources.resources
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.csproj.CopyComplete
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.exe
+C:\Users\User\Desktop\Polia02\Polia02\Polia02\obj\Debug\Polia02.pdb
